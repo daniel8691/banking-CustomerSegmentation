@@ -1,5 +1,14 @@
 # banking-CustomerSegmentation
 
+### Data Cleaning
+* Replaced null values with the mean for the features: Minimum payments and Credit Limit
+* Dropped Customer ID column as it doesn'thelp with the analysis
+
+### Machine Learning
+* Normalized data using StandardScaler
+* Find the best k value by testing clusters numbers from 2 to 20 and graphing (elbow test)
+* Fit data into the Kmeans model to determine cluster numbers for each datapoint
+
 ### Visualized the features of each clusters
 ![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic1.jpg)
 ![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic2.jpg)
