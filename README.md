@@ -1,5 +1,15 @@
 # banking-CustomerSegmentation
 
+### Visualized the features of each clusters
+![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic1.jpg)
+![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic2.jpg)
+![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic3.jpg)
+![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic4.jpg)
+![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic5.jpg)
+![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic6.jpg)
+
+### Findings
+
 Transactors: Customers who pay the least amount of interest charges and careful with their money
 * Cluster 4
 * Cluster 0 - Low purchase frequency, low credit limit, around average % full payment
@@ -16,12 +26,3 @@ VIP/Prime: customers with high credit limit/% full payments, targeted to increas
 
 
 Clients tend to stay with the company for long periods of time with the average tenure at 11.27 years
-
-
-### Visualized each clusters
-![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic1.jpg)
-![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic2.jpg)
-![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic3.jpg)
-![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic4.jpg)
-![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic5.jpg)
-![alt text](https://github.com/daniel8691/banking-CustomerSegmentation/blob/master/cluster_analysis_SS/pic6.jpg)
